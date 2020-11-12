@@ -1,0 +1,4 @@
+﻿{
+	"name": "TDS",
+	"includePlatforms": ["Android", "iOS"]
+}
