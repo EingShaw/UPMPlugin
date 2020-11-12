@@ -3,7 +3,7 @@
     "displayName": "TDS",
     "description": "TapTap Develop Service!",
     "version": "1.0.0",
-    "unity": "2020.1.5",
+    "unity": "2020.1",
     "license": "MIT",
     "dependencies": {
 
